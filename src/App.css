@@ -1,0 +1,10 @@
+.gifs img {
+  width: 95%;
+  height: 95%;
+}
+.gifs {
+  width: 25%;
+  height: 120px;
+  float: left;
+  list-style: none;
+}
